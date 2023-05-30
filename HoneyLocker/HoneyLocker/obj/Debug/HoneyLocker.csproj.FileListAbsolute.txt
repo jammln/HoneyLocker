@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\bin\Debug\HoneyLocker.exe
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\bin\Debug\HoneyLocker.pdb
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.Form1.resources
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.Properties.Resources.resources
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.exe
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.pdb
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.csproj.CopyComplete
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.View_File.resources
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.Manual_Decryptor.resources
+C:\Users\admin\source\repos\HoneyLocker\HoneyLocker\obj\Debug\HoneyLocker.csproj.AssemblyReference.cache
